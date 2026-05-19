@@ -1,1 +1,1 @@
-# DevelopersHub_Corporation_Internship_2
+# DevelopersHub Corporation Internship
