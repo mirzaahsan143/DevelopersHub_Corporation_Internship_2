@@ -257,4 +257,4 @@ This project is developed for educational and internship purposes.
 
 ---
 
-*Built with ❤️ using Python, Streamlit, and Plotly*
+*Built using Python, Streamlit, and Plotly*
